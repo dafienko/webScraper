@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1578517566 source:c:\users\dafie\desktop\codeblocksworkspace\webscraper\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"curl/curl.h"
+
+1578406637 c:\users\dafie\desktop\codeblocksworkspace\webscraper\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"typecheck-gcc.h"
+
+1578406637 c:\users\dafie\desktop\codeblocksworkspace\webscraper\curl\curlver.h
+
+1578406637 c:\users\dafie\desktop\codeblocksworkspace\webscraper\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1578406637 c:\users\dafie\desktop\codeblocksworkspace\webscraper\curl\easy.h
+
+1578406637 c:\users\dafie\desktop\codeblocksworkspace\webscraper\curl\multi.h
+	"curl.h"
+
+1578406637 c:\users\dafie\desktop\codeblocksworkspace\webscraper\curl\urlapi.h
+	"curl.h"
+
+1578406637 c:\users\dafie\desktop\codeblocksworkspace\webscraper\curl\typecheck-gcc.h
+
